@@ -38,7 +38,7 @@ Bash
 * ####  touch
      `touch <file name>` = creates a new file with that name
 
-*#### wild cards
+* #### wild cards<br/>
     ? (question mark)<br/>
 
     This can represent any single character. If you specified something at the command line like "hd?" GNU/Linux would look for hda, hdb, hdc and every other letter/number between a-z, 0-9.<br/>
