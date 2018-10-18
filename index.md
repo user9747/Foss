@@ -34,7 +34,7 @@ Bash
      `rm -r <folder name>` = deletes the folder and its contents.
      
 * ####  touch
-     `touch<file name>` = creates a new file with that name
+     `touch <file name>` = creates a new file with that name
      
      
      
