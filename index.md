@@ -46,6 +46,11 @@ Bash
     \* (asterisk)<br/>
 
     This can represent any number of characters (including zero, in other words, zero or more characters). If you specified a "cd*" it would use "cda", "cdrom", "cdrecord" and anything that starts with “cd” also including “cd” itself. "m*l" could by mill, mull, ml, and anything that starts with an m and ends with an l.
+    
+    Paths<br/>
+          . (dot) = current directory<br/>
+          ~ (tilde) = home directory<br/>
+          / (slash) = root directory
      
      
      
