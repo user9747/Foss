@@ -4,8 +4,10 @@ Bash
 ### 0.Editor
 * ### nano
      `nano <filename>` = opens file with that name,creates it if doesn't exist
-
+* ### vim
 ### 1.Basic commands
+
+
 
 * ####  ls
     `ls <path>` - list directory contents<br/>
@@ -35,6 +37,15 @@ Bash
      
 * ####  touch
      `touch <file name>` = creates a new file with that name
+
+*#### wild cards
+    ? (question mark)<br/>
+
+    This can represent any single character. If you specified something at the command line like "hd?" GNU/Linux would look for hda, hdb, hdc and every other letter/number between a-z, 0-9.<br/>
+   
+    * (asterisk)<br/>
+
+    This can represent any number of characters (including zero, in other words, zero or more characters). If you specified a "cd*" it would use "cda", "cdrom", "cdrecord" and anything that starts with “cd” also including “cd” itself. "m*l" could by mill, mull, ml, and anything that starts with an m and ends with an l.
      
      
      
