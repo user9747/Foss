@@ -38,6 +38,17 @@ Bash
 * ####  touch
      `touch <file name>` = creates a new file with that name
 
+* ####  man
+      `man <command>` =  opens up the manual for that command
+
+* #### cat
+      `cat <filename>` = displays the content of the file in the terminal
+
+* #### head
+      `head <filename> -n 5` = displays the first 5 lines of the file. Can be used with any number of lines
+* #### tail
+      `tail <filename> -n 5` = displays the last 5 lines of the file. Can be used with any number of lines
+
 * #### wild cards<br/>
     ? (question mark)<br/>
 
