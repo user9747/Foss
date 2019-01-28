@@ -95,6 +95,9 @@ Bash
     Can implement above using -e.Use PATTERN as the pattern.  This can be used to specify multiple search patterns`grep -e foo -e bar file`<br/>
     ^,$<br/>
     .?,*,+<br/>
+* #### chmod
+    `chmod <permission change> file/dir`
+* #### chown
     
 
     
