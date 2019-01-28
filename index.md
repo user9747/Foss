@@ -61,8 +61,25 @@ Bash
     usage: echo Heeloo World
 
 * #### cat
+    `cat <filename>` -Prints file<br/>
 
+* #### clear
+    `clear`-Clear terminal<br/>
 
+* #### head
+    `head <filename>`-Print Top 10 lines of the file(default)<br/>
+
+* #### tail
+     `tail <filename>`-Print last 10 lines of file(default)<br/>
+
+* #### history
+    `history`-Displays all previous commands executed in the current shell.<br/>
+
+* #### uname
+    `uname`-Print system information. '-a' parameter displays complete details.<br/>
+* #### tree
+    `tree <foldername>`-Display directory structure in tree structure<br/>
+    
 
     
      
