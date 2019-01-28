@@ -7,7 +7,10 @@ Bash
 * ### vim
 ### 1.Basic commands
 
-
+* #### man
+    `man <command>` -To know more about a command<br/>
+    `<command> --help`<br/>
+    `<tldr <command>` -Smaller version of the man page.<br/>
 
 * ####  ls
     `ls <path>` - list directory contents<br/>
@@ -46,6 +49,14 @@ Bash
     * (asterisk)<br/>
 
     This can represent any number of characters (including zero, in other words, zero or more characters). If you specified a "cd*" it would use "cda", "cdrom", "cdrecord" and anything that starts with “cd” also including “cd” itself. "m*l" could by mill, mull, ml, and anything that starts with an m and ends with an l.
+
+* #### echo
+    `echo <string or variable>`-Print text<br/>
+    usage: echo Heeloo World
+
+* #### cat
+
+
      
      
      
