@@ -79,6 +79,22 @@ Bash
     `uname`-Print system information. '-a' parameter displays complete details.<br/>
 * #### tree
     `tree <foldername>`-Display directory structure in tree structure<br/>
+
+* #### curl
+    `curl <url>`-Transfer data from url.<br/>
+    '-o' Save file to filename specified.
+    '-O' Save file to its original filename.
+* #### wget
+    `wget <url>`-Download file.<br/>
+* #### grep
+    `grep <string> <filename>` - Searches file for matches of the given string.<br/>
+    `grep "is" file`-Displays all lines with substrings of "is".eg.his,is,miss.<br/>
+    `grep -i "is" file`-Case insensitive.<br/>
+    `grep -w "is" file`-NO subtrings only exact matches of is.<br/>
+    -E -Extended grep or use egrep.Interpret PATTERN as an extended regular expression ."foo|bar".Searches for multiple patterns.<br/>
+    Can implement above using -e.Use PATTERN as the pattern.  This can be used to specify multiple search patterns`grep -e foo -e bar file`<br/>
+    ^,$<br/>
+    .?,*,+<br/>
     
 
     
