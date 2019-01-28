@@ -98,6 +98,8 @@ Bash
 * #### chmod
     `chmod <permission change> file/dir`
 * #### chown
+
+* #### apt
     
 
     
