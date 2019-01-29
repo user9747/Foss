@@ -1,20 +1,20 @@
 
 Bash
 ======
-### 0.Editor
-* ### nano
+### 0. Editor
+* #### nano
      `nano <filename>` = opens file with that name,creates it if doesn't exist
-* ### vim
-### 1.Basic commands
+* #### vim
+### 1. Basic commands
 
 * #### man
-    `man <command>` -To know more about a command<br/>
+    `man <command>` - To know more about a command<br/>
     `<command> --help`<br/>
-    `tldr <command>` -Smaller version of the man page.<br/>
+    `tldr <command>` - Smaller version of the man page.<br/>
 
 * ####  ls
     `ls <path>` - list directory contents<br/>
-    `ls -la` -list all files in details even hidden files
+    `ls -la` - list all files in details even hidden files
     
 * ####  cd
     `cd <folderName>` = change directory<br/>
@@ -48,7 +48,7 @@ Bash
    
     \* (asterisk)<br/>
 
-    This can represent any number of characters (including zero, in other words, zero or more characters). If you specified a "cd*" it would use "cda", "cdrom", "cdrecord" and anything that starts with “cd” also including “cd” itself. "m*l" could by mill, mull, ml, and anything that starts with an m and ends with an l.
+    This can represent any number of characters (including zero, in other words, zero or more characters). If you specified a "cd\*" it would use "cda", "cdrom", "cdrecord" and anything that starts with “cd” also including “cd” itself. "m\*l" could by mill, mull, ml, and anything that starts with an m and ends with an l.
 
         
     Paths<br/>
