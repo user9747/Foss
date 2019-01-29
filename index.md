@@ -10,7 +10,7 @@ Bash
 * #### man
     `man <command>` -To know more about a command<br/>
     `<command> --help`<br/>
-    `<tldr <command>` -Smaller version of the man page.<br/>
+    `tldr <command>` -Smaller version of the man page.<br/>
 
 * ####  ls
     `ls <path>` - list directory contents<br/>
